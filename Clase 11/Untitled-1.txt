@@ -1,0 +1,12 @@
+PHP
+Apache -> Levantaba un servidor web 
+¿?
+
+Frontend -> visual
+Backend -> funcionalidades a nuestro codigo (login, registro, carrito de compras, vincular con el clima, hjacer una firma digital, escanear QR, etc etc)
+
+        WEB SERVER
+Frontend
+
+
+Apache ->
